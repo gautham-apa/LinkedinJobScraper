@@ -1,4 +1,4 @@
-# Linkedin and Twitter Jobs Scraper ![GitHub license](https://github.com/gautham-apa/LinkedinJobScraper/blob/main/LICENSE)
+# Linkedin and Twitter Jobs Scraper [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/gautham-apa/LinkedinJobScraper/blob/main/LICENSE)
 
 ### Description
 
@@ -20,6 +20,9 @@ scrapy crawl linkedinSpider
 ```
 
 The scraped data would be transformed to a json and written at location `/linkedinbot/linkedinbot/spiders/data` with current date and time.
+
+### Sample data
+![alt text](https://github.com/gautham-apa/LinkedinJobScraper/blob/main/images/LinkedinBotSampleRun.png?raw=true)
 
 ### Disclaimer
 
