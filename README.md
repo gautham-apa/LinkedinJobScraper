@@ -1,4 +1,4 @@
-# Linkedin and Twitter Jobs Scraper ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Linkedin and Twitter Jobs Scraper ![GitHub license](https://github.com/gautham-apa/LinkedinJobScraper/blob/main/LICENSE)
 
 ### Description
 
