@@ -1,10 +1,10 @@
-# Linkedin and Twitter Jobs Scraper ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Linkedin and Twitter Jobs Scraper ![GitHub license](https://github.com/gautham-apa/LinkedinJobScraper/blob/main/LICENSE)
 
 ### Description
 
 A bot to scrape jobs data from linkedin and twitter. A [scrapy](https://scrapy.org/) crawler is used to fetch the links and data is extracted from the tags using [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/).
 
-## Running Linkedin bot
+### Running Linkedin bot
 
 This repository can be downloaded using
 
@@ -21,6 +21,6 @@ scrapy crawl linkedinSpider
 
 The scraped data would be transformed to a json and written at location `/linkedinbot/linkedinbot/spiders/data` with current date and time.
 
-#### Disclaimer
+### Disclaimer
 
 This bot has been built for educational purposes only and not intended for commercial deployment. Please use it wisely at your own risk.
